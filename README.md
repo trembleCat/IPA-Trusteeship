@@ -1,9 +1,9 @@
-# IPA托管测试
+# IPA托管
 
 #### 介绍
-IPA托管测试
+IPA托管
 
-测试浏览器安装ipa程序
+使用浏览器安装ipa程序
 
 #### 使用说明
 
@@ -13,7 +13,7 @@ IPA托管测试
 4.在plist的url链接前拼接以下代码  
 itms-services://?action=download-manifest&url=         
   
-如 ：itms-services://?action=download-manifest&url=https://gitee.com/kevincool/ipaTest/raw/master/ipa_plist  
+如 ：itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/trembleCat/IPA-Trusteeship/master/ipa.plist  
   
 将上边的链接生成二维码或直接使用Safair浏览器打开即可弹出安装程序界面  
 
