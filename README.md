@@ -4,7 +4,9 @@
 IPA托管
 
 使用浏览器安装ipa程序
-
+  
+查看详细使用教程[IPA托管](https://www.jianshu.com/p/08172adacc97)
+  
 #### 使用说明
 
 1.复制plist文件内容   
